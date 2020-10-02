@@ -32,6 +32,7 @@ List of practice sites
   <li><a href="http://smashthestack.org/">SmashTheStack</a></li>
   <li><a href="http://www.try2hack.nl/">Try2Hack</a></li>
   <li><a href="https://www.prismacsi.com/en/typhoon-vulnerable-virtual-machines/">Typhoon vulnerable VM</a></li>
+  <li><a href="https://ctf.viblo.asia/">Viblo CTF</a></li>
   <li><a href="https://w3challs.com/">W3Challs</a></li>
   <li><a href="https://github.com/cure53/XSSChallengeWiki/wiki">XSS Challenge Wiki</a></li>
 </ul>
@@ -72,6 +73,8 @@ List of practice sites
 	<li><a href="https://www.hackthissite.org/">http://www.hackthissite.org/</a></li>
 	<li><a href="https://vulnhub.com/">http://vulnhub.com/</a></li>
 	<li><a href="http://ctf.komodosec.com">http://ctf.komodosec.com</a></li>
+	<li><a href="https://ctf.viblo.asia/">https://ctf.viblo.asia/</a> (Various amazing CTF challenges, in many different categories. Has both Practice mode and Contest mode)</li>
+
 </ul>
 
 <h4>Others</h4>
