@@ -1,6 +1,7 @@
 # Practice your hacking skills with these CTFs
 List of practice sites
 <ul>
+  <li><a href="[http://www.itsecgames.com/](https://github.com/BishopFox/cloudfoxable?tab=readme-ov-file)">CloudFoxable: Open-source AWS penetration testing playground</a></li>
   <li><a href="http://www.itsecgames.com/">bWAPP</a></li>
   <li><a href="https://cryptopals.com/">Cryptopals</a> - Cryptographic programming challenges</li>
   <li><a href="https://ctfchallenge.co.uk/">CTF Challenge</a></li>
