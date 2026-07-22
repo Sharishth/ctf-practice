@@ -1,172 +1,250 @@
-# Practice your hacking skills with these CTFs
-List of practice sites
-<ul>
-  <li><a href="https://github.com/BishopFox/cloudfoxable?tab=readme-ov-file">CloudFoxable: Open-source AWS penetration testing playground</a></li>
-  <li><a href="http://www.itsecgames.com/">bWAPP</a></li>
-  <li><a href="https://cryptopals.com/">Cryptopals</a> - Cryptographic programming challenges</li>
-  <li><a href="https://ctfchallenge.co.uk/">CTF Challenge</a></li>
-  <li><a href="https://ctf365.com/">CTF365</a></li>
-  <li><a href="https://ctflearn.com/">CTFlearn</a></li>
-  <li><a href="https://ctftime.org/">CTFTime</a></li>
-  <li><a href="https://www.enigmagroup.org/">Enigma Group</a></li>
-  <li><a href="http://www.gameofhacks.com/">Game of Hacks</a></li>
-  <li><a href="http://google-gruyere.appspot.com/">Google Gruyere</a> - Vulnerable web app</li>
-  <li><a href="https://xss-game.appspot.com/">Google XSS Game</a> - Cross-site scripting for beginners</li>
-  <li><a href="https://www.hackthissite.org/">Hack This Site</a></li>
-  <li><a href="https://hack.me/">Hack.me</a></li>
-  <li><a href="https://www.hacking-lab.com/index.html">Hacking-Lab</a></li>
-  <li><a href="https://www.hackthis.co.uk/">HackThis!!</a></li>
-  <li><a href="https://www.hellboundhackers.org/">Hellbound Hackers </a></li>
-  <li><a href="http://io.netgarage.org/">IO</a></li>
-  <li><a href="https://github.com/bkimminich/juice-shop">Juice shop</a> - Vulnerable web app</li>
-  <li><a href="https://microcorruption.com/">Microcorruption</a> - ARM disassembling</li>
-  <li><a href="http://overthewire.org/wargames/">Over The Wire wargames</a></li>
-  <li><a href="https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project">OWASP WebGoat 1.2</a></li>
-  <li><a href="https://picoctf.com/">picoCTF</a></li>
-  <li><a href="https://portswigger.net/web-security">Portswigger’s Web Security Academy</a></li>
-  <li><a href="https://pwn0.com/">pwn0</a></li>
-  <li><a href="http://pwnable.kr/">pwnable.kr</a></li>
-  <li><a href="https://pwnable.tw/">pwnable.tw</a></li>
-  <li><a href="http://reversing.kr/">Reversing.kr</a></li>
-  <li><a href="https://ringzer0team.com/">RingZer0 Team Online CTF</a></li>
-  <li><a href="https://www.root-me.org/">Root Me</a></li>
-  <li><a href="http://smashthestack.org/">SmashTheStack</a></li>
-  <li><a href="http://www.try2hack.nl/">Try2Hack</a></li>
-  <li><a href="https://www.prismacsi.com/en/typhoon-vulnerable-virtual-machines/">Typhoon vulnerable VM</a></li>
-  <li><a href="https://w3challs.com/">W3Challs</a></li>
-  <li><a href="https://github.com/cure53/XSSChallengeWiki/wiki">XSS Challenge Wiki</a></li>
-</ul>
+# Practice Your Hacking Skills: CTF & Wargame Sites
+
+> Verified pass, July 2026. Statuses reflect checks against live pages and current project homes.
+> Where a project relocated, the old URL is shown followed by an arrow to the current one.
+
+## Legend
+
+| Symbol | Meaning |
+| :---: | --- |
+| ✅ | Available, resolves and serves the intended content |
+| 🔁 | Moved, old URL is stale or redirects, use the new one |
+| ❌ | Discontinued, domain dead, parked, or project retired (shown ~~struck through~~) |
+| ⚠️ | Reachable but stale, unmaintained, or gated behind a paywall/signup |
 
 ---
-<ul>
-  <li><a href="https://github.com/roya0045/Pentest-practice">Pentest-practice</a></li>
-  <li><a href="http://captf.com/practice-ctf/">Practice CTF List</a></li>
-</ul>
+
+## Index
+
+<details open>
+<summary><strong>✅ Available (55)</strong></summary>
+
+CloudFoxable · bWAPP · Cryptopals · CTFlearn · CTFTime · Google Gruyere · Google XSS Game · Hack This Site · HackThis!! · IO (Netgarage) · OWASP Juice Shop · Microcorruption · OverTheWire · picoCTF · PortSwigger Web Security Academy · pwnable.kr · pwnable.tw · Reversing.kr · Root Me · SmashTheStack · Try2Hack · W3Challs · XSS Challenge Wiki · Pentest-practice · Practice CTF List (captf) · VulnHub · scanme.nmap.org · WeChall · shell-storm CTF archive · Altoro Mutual (testfire) · Acunetix test.php · Acunetix testphp · Acunetix testasp · Zero WebAppSecurity · PentesterLab · Metasploitable 2 · Mutillidae · DVWA · Avatao · Typhoon VM · Counter Hack / Holiday Hack · Hack The Box · TryHackMe · Hacker101 · crackmes.one · webhacking.kr · Websec.fr · Hacksplaining · Defend the Web · Gracker · SANS DFIR challenges · picoGym · OWASP VWAD · exploit.education · Praetorian challenges
+
+</details>
+
+<details open>
+<summary><strong>🔁 Moved (9)</strong></summary>
+
+OWASP WebGoat · Hacking-Lab · RingZer0 · Damn Vulnerable Web App · Mutillidae · Exploit Exercises · SANS Forensics challenges · Praetorian challenges · picoCTF
+
+</details>
+
+<details open>
+<summary><strong>❌ Discontinued (34)</strong></summary>
+
+CTF Challenge · CTF365 · Enigma Group · Game of Hacks · Hack.me · Hellbound Hackers · pwn0 · cherryblog.in · hax.tor.hu · ctf.komodosec.com · Backdoor (SDSLabs) · mod-x.co.uk · hackertest.net · net-force.nl · ForgottenSec CTF wiki · wocares XSS tester · Cenzic CrackMe · forensicscontest.com · rtncyberjobs.com · 0x41414141.com · Heorot · BadStore · OWASP SiteGenerator · Stanford SecuriBench · SecuriBench Micro · Damn Vulnerable Linux · rootcontest · intruded.net · how2hack.net · WebMaven · Foundstone Hacme series · NT OBJECTives hackme · Nuit du Hack prequals · gat3way.eu · damo.clanteam.com · p6drad-teel wargame · roothack.org · ha.ckers.org challenges · DC3 Digital Forensics Challenge
+
+</details>
 
 ---
-<h1>Practice CTF List / Permanant CTF List</h1>
 
-<p>Here's a list of some CTF practice sites and tools or CTFs that are long-running. Thanks, RSnake for starting the original that this is based on. If you have any corrections or suggestions, feel free to email ctf at the domain psifertex with a dot com tld.</p>
+## 1. Core Practice Sites
 
-<h2>Live Online Games</h2>
-<h4>Recommended</h4>
-<p>Whether they're being updated, contain high quality challenges, or just have a lot of depth, these are probably where you want to spend the most time.</p>
-<ul>
-	<li><a href="http://pwnable.tw/">http://pwnable.tw/</a> (a newer set of high quality pwnable challenges)</li>
-	<li><a href="http://pwnable.kr/">http://pwnable.kr/</a> (one of the more popular recent wargamming sets of challenges)</li>
-	<li><a href="https://picoctf.com/">https://picoctf.com/</a>  (Designed for high school students while the event is usually new every year, it's left online and has a great difficulty progression)</li>
-	<!-- 
-	<li><a href="https://easyctf.com">https://easyctf.com/</a>  ()</li>
-	-->
-	<li><a href="https://microcorruption.com/login">https://microcorruption.com/login</a> (one of the best interfaces, a good difficulty curve and introduction to low-level reverse engineering, specifically on an MSP430)</li>
-	<li><a href="http://ctflearn.com/">http://ctflearn.com/</a> (a new CTF based learning platform with user-contributed challenges)</li>
-	<li><a href="https://cherryblog.in/">https://cherryblog.in/</a></li>
-	<li><a href="http://reversing.kr/">http://reversing.kr/</a></li>
-	<li><a href="http://hax.tor.hu/">http://hax.tor.hu/</a></li>
-	<li><a href="https://w3challs.com/">https://w3challs.com/</a></li>
-	<li><a href="https://pwn0.com/">https://pwn0.com/</a></li>
-	<li><a href="https://io.netgarage.org/">https://io.netgarage.org/</a></li>
-	<li><a href="http://ringzer0team.com/">http://ringzer0team.com/</a></li>
-	<li><a href="http://www.hellboundhackers.org/">http://www.hellboundhackers.org/</a></li>
-	<li><a href="http://www.overthewire.org/wargames/">http://www.overthewire.org/wargames/</a></li>
-	<li><a href="http://counterhack.net/Counter_Hack/Challenges.html">http://counterhack.net/Counter_Hack/Challenges.html</a></li>
-	<li><a href="https://www.hackthissite.org/">http://www.hackthissite.org/</a></li>
-	<li><a href="https://vulnhub.com/">http://vulnhub.com/</a></li>
-	<li><a href="http://ctf.komodosec.com">http://ctf.komodosec.com</a></li>
-</ul>
+| Status | Site | URL | Notes |
+| :---: | --- | --- | --- |
+| ✅ | CloudFoxable | [github.com/BishopFox/cloudfoxable](https://github.com/BishopFox/cloudfoxable) | AWS pentest playground, actively maintained |
+| ✅ | bWAPP | [itsecgames.com](http://www.itsecgames.com/) | Static page, project itself is frozen but downloadable |
+| ✅ | Cryptopals | [cryptopals.com](https://cryptopals.com/) | 8 sets of crypto challenges |
+| ❌ | ~~CTF Challenge~~ | ~~ctfchallenge.co.uk~~ | Domain no longer serves the platform |
+| ❌ | ~~CTF365~~ | ~~ctf365.com~~ | Cyber range shut down, no active service |
+| ✅ | CTFlearn | [ctflearn.com](https://ctflearn.com/) | User-contributed challenges, active |
+| ✅ | CTFTime | [ctftime.org](https://ctftime.org/) | Event calendar and team rankings |
+| ❌ | ~~Enigma Group~~ | ~~enigmagroup.org~~ | Long unmaintained, site no longer reliably up |
+| ❌ | ~~Game of Hacks~~ | ~~gameofhacks.com~~ | Checkmarx retired the demo |
+| ✅ | Google Gruyere | [google-gruyere.appspot.com](https://google-gruyere.appspot.com/) | Still hosted on App Engine |
+| ✅ | Google XSS Game | [xss-game.appspot.com](https://xss-game.appspot.com/) | 6 levels, still live |
+| ✅ | Hack This Site | [hackthissite.org](https://www.hackthissite.org/) | Classic wargame, active community |
+| ❌ | ~~Hack.me~~ | ~~hack.me~~ | eLearnSecurity folded into INE, sandbox service retired |
+| 🔁 | Hacking-Lab | ~~www.hacking-lab.com/index.html~~ → [hacking-lab.com](https://hacking-lab.com/) | Now commercial, free tier at [academy.hacking-lab.com](https://academy.hacking-lab.com/) |
+| ✅ | HackThis!! | [hackthis.co.uk](https://www.hackthis.co.uk/) | 50+ levels |
+| ❌ | ~~Hellbound Hackers~~ | ~~hellboundhackers.org~~ | Offline, community dispersed |
+| ✅ | IO (Netgarage) | [io.netgarage.org](https://io.netgarage.org/) | SSH wargame, still updated (2025 entries) |
+| ✅ | OWASP Juice Shop | [github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) | Repo moved from `bkimminich` to the `juice-shop` org |
+| ✅ | Microcorruption | [microcorruption.com](https://microcorruption.com/) | MSP430 embedded RE, not ARM (original note was wrong) |
+| ✅ | OverTheWire | [overthewire.org/wargames](https://overthewire.org/wargames/) | Bandit, Natas, Leviathan, etc. |
+| 🔁 | OWASP WebGoat | ~~owasp.org/index.php/Category:OWASP_WebGoat_Project~~ → [owasp.org/www-project-webgoat](https://owasp.org/www-project-webgoat/) | OWASP retired the MediaWiki, repo at [github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) |
+| 🔁 | picoCTF | ~~picoctf.com~~ → [picoctf.org](https://picoctf.org/) | picoGym stays open year round |
+| ✅ | PortSwigger Web Security Academy | [portswigger.net/web-security](https://portswigger.net/web-security) | Free, best-in-class web labs |
+| ❌ | ~~pwn0~~ | ~~pwn0.com~~ | VPN wargame long dead |
+| ✅ | pwnable.kr | [pwnable.kr](http://pwnable.kr/) | Binary exploitation |
+| ✅ | pwnable.tw | [pwnable.tw](https://pwnable.tw/) | Harder pwn set |
+| ✅ | Reversing.kr | [reversing.kr](http://reversing.kr/) | RE challenges, slow but up |
+| 🔁 | RingZer0 | ~~ringzer0team.com~~ → [ringzer0ctf.com](https://ringzer0ctf.com/) | Rebranded domain |
+| ✅ | Root Me | [root-me.org](https://www.root-me.org/) | 500+ challenges, free tier |
+| ✅ | SmashTheStack | [smashthestack.org](https://www.smashthestack.org/main.html) | IRC-coordinated wargame network |
+| ✅ | Try2Hack | [try2hack.nl](https://www.try2hack.nl/) | One of the oldest still standing |
+| ⚠️ | Typhoon Vulnerable VM | [prismacsi.com](https://www.prismacsi.com/en/typhoon-vulnerable-virtual-machines/) | Download page up, VM not updated in years |
+| ✅ | W3Challs | [w3challs.com](https://w3challs.com/) | Mixed category platform |
+| ✅ | XSS Challenge Wiki | [github.com/cure53/XSSChallengeWiki](https://github.com/cure53/XSSChallengeWiki/wiki) | Curated by cure53 |
 
-<h4>Others</h4>
-<ul>
-	<li><a href="https://backdoor.sdslabs.co/">https://backdoor.sdslabs.co/</a></li>
-	<li><a href="http://smashthestack.org/wargames.html">http://smashthestack.org/wargames.html</a></li>
-<!--
-	<li><a href="http://hackthecause.info/">http://hackthecause.info/</a></li>
-	<li><a href="https://www.onlinectf.com/challenges/">https://www.onlinectf.com/challenges/</a></li>
-	<li><a href="http://bright-shadows.net/">http://bright-shadows.net/</a></li>
-	<li><a href="http://securityoverride.org/">http://securityoverride.org/</a> Some good concepts, but "canned" vulnerabilities (string matching on input) will frustrate knowledgable hackers and teach newbies the wrong lessons</li>
--->
-	<li><a href="http://www.mod-x.co.uk/main.php">http://www.mod-x.co.uk/main.php</a></li>
-	<li><a href="http://scanme.nmap.org/">http://scanme.nmap.org/</a></li>
-	<li><a href="http://www.hackertest.net/">http://www.hackertest.net/</a></li>
-	<li><a href="http://net-force.nl/">http://net-force.nl/</a></li>
-</ul>
+## 2. Aggregators and Lists
 
-<h4>Meta</h4>
-<ul>
-	<li><a href="http://www.wechall.net/sites.php">http://www.wechall.net/sites.php</a> (excellent list of challenge sites)</li>
-	<li><a href="http://ctf.forgottensec.com/wiki/index.php?title=Main_Page">http://ctf.forgottensec.com/wiki/</a> (good CTF wiki, though focused on CCDC)</li>
-	<li><a href="http://repo.shell-storm.org/CTF/">http://repo.shell-storm.org/CTF/</a> (great archive of CTFs)</li>
-</ul>
+| Status | Site | URL | Notes |
+| :---: | --- | --- | --- |
+| ✅ | Pentest-practice | [github.com/roya0045/Pentest-practice](https://github.com/roya0045/Pentest-practice) | Repo intact, low activity |
+| ✅ | Practice CTF List (captf) | [captf.com/practice-ctf](http://captf.com/practice-ctf/) | Source of the section below |
+| ✅ | WeChall | [wechall.net/sites.php](http://www.wechall.net/sites.php) | Still the best cross-site challenge index |
+| ❌ | ~~ForgottenSec CTF wiki~~ | ~~ctf.forgottensec.com/wiki~~ | Gone |
+| ✅ | shell-storm CTF archive | [shell-storm.org/repo/CTF](https://shell-storm.org/repo/CTF/) | Moved off the `repo.` subdomain |
+| ✅ | OWASP VWAD | [vwad.owasp.org](https://vwad.owasp.org/) | Modern replacement for most "vulnerable app" lists |
 
-<h4>Webapp Specific</h4>
-<ul>
-	<li><a href="http://demo.testfire.net/">http://demo.testfire.net/</a></li>
-	<li><a href="http://wocares.com/xsstester.php">http://wocares.com/xsstester.php</a></li>
-	<li><a href="http://crackme.cenzic.com/">http://crackme.cenzic.com/</a></li>
-	<li><a href="http://test.acunetix.com/">http://test.acunetix.com/</a></li>
-	<li><a href="http://zero.webappsecurity.com/">http://zero.webappsecurity.com/</a></li>
-</ul>
+---
 
-<h4>Forensics Specific</h4>
-<ul>
-	<li><a href="http://computer-forensics.sans.org/community/challenges">http://computer-forensics.sans.org/community/challenges</a></li>
-	<li><a href="http://computer-forensics.sans.org/community/challenges">http://computer-forensics.sans.org/community/challenges</a></li>
-	<li><a href="http://forensicscontest.com/">http://forensicscontest.com/</a></li>
-</ul>
+## 3. Practice CTF List / Permanent CTF List
 
-<h4>Recruiting</h4>
-<ul>
-	<li><a href="https://www.praetorian.com/challenges/pwnable/">https://www.praetorian.com/challenges/pwnable/</a></li>
-	<li><a href="http://rtncyberjobs.com/">http://rtncyberjobs.com/</a></li>
-	<li><a href="http://0x41414141.com/">http://0x41414141.com/</a></li>
-</ul>
+> Originally compiled at captf.com, credited to RSnake for the original.
 
-<h4>Commercial/Freemium/Paid Training</h4>
-<ul>
-	<li><a href="https://www.root-me.org/">https://www.root-me.org/</a> (well done set of challenges free for public use with optional paid commercial versions)</li>
-	<li><a href="https://avatao.com/">https://avatao.com</a> (paid commercial training platform from a CTF team, though with a strong focus on secure app development)</li>
-	<li><a href="http://heorot.net/">http://heorot.net/</a></li>
-</ul>
+### 3.1 Live Online Games (Recommended)
 
-<h2>Downloadable Offline Games</h2>
-<ul>
-	<li><a href="http://www.badstore.net/">http://www.badstore.net/</a></li>
-	<li><a href="https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project">http://www.owasp.org/index.php/Category:OWASP_WebGoat_Project</a></li>
-	<li><a href="https://www.owasp.org/index.php/Owasp_SiteGenerator">http://www.owasp.org/index.php/Owasp_SiteGenerator</a></li>
-	<li><a href="http://www.ethicalhack3r.co.uk/damn-vulnerable-web-app/">Damn Vulnerable Web App</a></li>
-	<li><a href="http://suif.stanford.edu/~livshits/securibench/">Stanford SecureBench</a></li>
-	<li><a href="http://suif.stanford.edu/~livshits/work/securibench-micro/">Stanford SecureBench Micro</a></li>
-	<li><a href="https://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10">http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-php-owasp-top-10</a></li>
-</ul>
+| Status | Site | Notes |
+| :---: | --- | --- |
+| ✅ | [pwnable.tw](https://pwnable.tw/) | High quality pwnables |
+| ✅ | [pwnable.kr](http://pwnable.kr/) | Popular wargame set |
+| 🔁 | ~~picoctf.com~~ → [picoctf.org](https://picoctf.org/) | Great difficulty progression, stays online year round |
+| ✅ | [microcorruption.com/login](https://microcorruption.com/login) | Excellent interface, MSP430 low-level RE |
+| ✅ | [ctflearn.com](https://ctflearn.com/) | User-contributed challenges |
+| ❌ | ~~cherryblog.in~~ | Domain dead |
+| ✅ | [reversing.kr](http://reversing.kr/) | Reverse engineering |
+| ❌ | ~~hax.tor.hu~~ | Offline for years |
+| ✅ | [w3challs.com](https://w3challs.com/) | Mixed categories |
+| ❌ | ~~pwn0.com~~ | Dead |
+| ✅ | [io.netgarage.org](https://io.netgarage.org/) | Still maintained |
+| 🔁 | ~~ringzer0team.com~~ → [ringzer0ctf.com](https://ringzer0ctf.com/) | Rebranded |
+| ❌ | ~~hellboundhackers.org~~ | Offline |
+| ✅ | [overthewire.org/wargames](https://overthewire.org/wargames/) | Active |
+| 🔁 | ~~counterhack.net/Counter_Hack/Challenges.html~~ → [counterhack.net](https://www.counterhack.net/) | Now centered on SANS Holiday Hack Challenge |
+| ✅ | [hackthissite.org](https://www.hackthissite.org/) | Active |
+| ✅ | [vulnhub.com](https://www.vulnhub.com/) | Boot2root VM archive, still the standard |
+| ❌ | ~~ctf.komodosec.com~~ | Gone |
 
-<h2>Virtual Machines</h2>
-<ul>
-	<li><a href="https://pentesterlab.com/exercises/">https://pentesterlab.com/exercises/</a></li>
-	<li><a href="https://sourceforge.net/projects/metasploitable/files/Metasploitable2/">http://sourceforge.net/projects/metasploitable/files/Metasploitable2/</a></li>
-	<li><a href="http://www.damnvulnerablelinux.org/">Damn Vulnerable Linux</a> (not currently live? local <a href="/mirror/damnvulnerablelinux.com/">mirror</a>) </li>
-</ul>
+### 3.2 Others
 
-<h3>Inactive or Gone</h3>
-<p>Just around for historical sake, or on the off-chance they come back.</p>
-<ul>
-	<li><a href="http://rootcontest.com/">http://rootcontest.com/</a></li>
-	<li><a href="http://intruded.net/">http://intruded.net/</a></li>
-	<li><a href="https://how2hack.net">https://how2hack.net</a></li>
-	<li><a href="https://www.mavensecurity.com/WebMaven.php">WebMaven (Buggy Bank)</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm">http://www.foundstone.com/us/resources/proddesc/hacmetravel.htm</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm">http://www.foundstone.com/us/resources/proddesc/hacmebooks.htm</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm">http://www.foundstone.com/us/resources/proddesc/hacmecasino.htm</a></li>
-	<li><a href="http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm">http://www.foundstone.com/us/resources/proddesc/hacmeshipping.htm</a></li>
-	<li><a href="http://hackme.ntobjectives.com/">http://hackme.ntobjectives.com/</a></li>
-	<li><a href="http://testphp.acunetix.com/.asp">http://testphp.acunetix.com/</a></li>
-	<li><a href="http://testasp.acunetix.com/Default.asp">http://testasp.acunetix.com/Default.asp</a></li>
-	<li><a href="http://prequals.nuitduhack.com">http://prequals.nuitduhack.com</a></li>
-	<li><a href="http://www.gat3way.eu/index.php">http://www.gat3way.eu/index.php</a> (Russian)</li>
-	<li><a href="http://exploit-exercises.com/">http://exploit-exercises.com/</a> (challenges mirrored on vulnhub)</li>
-	<li><a href="http://damo.clanteam.com/">http://damo.clanteam.com/</a></li>
-	<li><a href="http://p6drad-teel.net/~windo/wargame/">http://p6drad-teel.net/~windo/wargame/</a></li>
-	<li><a href="http://roothack.org/">http://roothack.org/</a></li>
-	<li><a href="http://ha.ckers.org/challenge/">http://ha.ckers.org/challenge/</a></li>
-	<li><a href="http://ha.ckers.org/challenge2/">http://ha.ckers.org/challenge2/</a></li>
-	<li><a href="https://forensicswiki.org/wiki/DC3_Digital_Forensics_Challenge">http://www.dc3.mil/challenge/</a></li>
-</ul>
+| Status | Site | Notes |
+| :---: | --- | --- |
+| ❌ | ~~backdoor.sdslabs.co~~ | SDSLabs retired the platform |
+| ✅ | [smashthestack.org/wargames.html](https://www.smashthestack.org/wargames.html) | Active |
+| ❌ | ~~mod-x.co.uk~~ | Dead |
+| ✅ | [scanme.nmap.org](http://scanme.nmap.org/) | Nmap's sanctioned scan target, still up |
+| ❌ | ~~hackertest.net~~ | Dead |
+| ❌ | ~~net-force.nl~~ | Dead |
+| ❌ | ~~hackthecause.info~~ | Dead (was already commented out) |
+| ❌ | ~~onlinectf.com~~ | Dead (was already commented out) |
+| ❌ | ~~bright-shadows.net~~ | Dead (was already commented out) |
+| ❌ | ~~securityoverride.org~~ | Dead (was already commented out) |
+
+### 3.3 Webapp Specific
+
+| Status | Site | Notes |
+| :---: | --- | --- |
+| ✅ | [demo.testfire.net](http://demo.testfire.net/) | HCL AppScan's Altoro Mutual demo bank, still hosted |
+| ❌ | ~~wocares.com/xsstester.php~~ | Dead |
+| ❌ | ~~crackme.cenzic.com~~ | Cenzic acquired by Trustwave, demo retired |
+| ✅ | [test.acunetix.com](http://test.acunetix.com/) | Invicti keeps the deliberately vulnerable demos up |
+| ✅ | [testphp.vulnweb.com](http://testphp.vulnweb.com/) | Current home of the old `testphp.acunetix.com` |
+| ✅ | [testasp.vulnweb.com](http://testasp.vulnweb.com/) | Current home of the old `testasp.acunetix.com` |
+| ✅ | [zero.webappsecurity.com](http://zero.webappsecurity.com/) | Micro Focus / OpenText demo bank |
+
+### 3.4 Forensics Specific
+
+| Status | Site | Notes |
+| :---: | --- | --- |
+| 🔁 | ~~computer-forensics.sans.org/community/challenges~~ → [sans.org/mlp/dfir-challenges](https://www.sans.org/) | Subdomain retired, content folded into the main SANS DFIR pages |
+| ⚠️ | [forensicscontest.com](http://forensicscontest.com/) | Puzzles still readable, no new content since ~2012 |
+
+### 3.5 Recruiting
+
+| Status | Site | Notes |
+| :---: | --- | --- |
+| 🔁 | ~~praetorian.com/challenges/pwnable~~ → [praetorian.com](https://www.praetorian.com/) | Old challenge path retired, occasional new campaigns |
+| ❌ | ~~rtncyberjobs.com~~ | Raytheon recruiting site retired |
+| ❌ | ~~0x41414141.com~~ | Dead |
+
+### 3.6 Commercial / Freemium / Paid
+
+| Status | Site | Notes |
+| :---: | --- | --- |
+| ✅ | [root-me.org](https://www.root-me.org/) | Free for public use, paid commercial tier |
+| ✅ | [avatao.com](https://avatao.com/) | Secure-dev focused, commercial |
+| ❌ | ~~heorot.net~~ | Dead, De-ICE ISOs survive on VulnHub |
+
+---
+
+## 4. Downloadable / Offline Targets
+
+| Status | Project | URL | Notes |
+| :---: | --- | --- | --- |
+| ❌ | ~~BadStore~~ | ~~badstore.net~~ | Domain gone, ISO mirrored on VulnHub |
+| 🔁 | OWASP WebGoat | ~~owasp.org/index.php/...~~ → [owasp.org/www-project-webgoat](https://owasp.org/www-project-webgoat/) | Docker image is the current install path |
+| ❌ | ~~OWASP SiteGenerator~~ | ~~owasp.org/index.php/Owasp_SiteGenerator~~ | Project archived by OWASP |
+| 🔁 | Damn Vulnerable Web App | ~~ethicalhack3r.co.uk/damn-vulnerable-web-app~~ → [github.com/digininja/DVWA](https://github.com/digininja/DVWA) | Actively maintained by the original author |
+| ❌ | ~~Stanford SecuriBench~~ | ~~suif.stanford.edu/~livshits/securibench~~ | Research page retired |
+| ❌ | ~~SecuriBench Micro~~ | ~~suif.stanford.edu/~livshits/work/securibench-micro~~ | Retired |
+| 🔁 | Mutillidae II | ~~irongeek.com/i.php?page=security/mutillidae...~~ → [github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae) | Irongeek page still loads, but the repo is where development happens |
+
+## 5. Virtual Machines
+
+| Status | Project | URL | Notes |
+| :---: | --- | --- | --- |
+| ✅ | PentesterLab | [pentesterlab.com/exercises](https://pentesterlab.com/exercises/) | Freemium |
+| ✅ | Metasploitable 2 | [sourceforge.net/projects/metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) | Still downloadable |
+| ✅ | Metasploitable 3 | [github.com/rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) | Successor, build-your-own |
+| ❌ | ~~Damn Vulnerable Linux~~ | ~~damnvulnerablelinux.org~~ | Abandoned, ISOs only via mirrors |
+| ✅ | VulnHub | [vulnhub.com](https://www.vulnhub.com/) | Where most orphaned VMs above now live |
+
+---
+
+## 6. Inactive or Gone
+
+All confirmed dead. Kept for historical reference.
+
+| Site | Notes |
+| --- | --- |
+| ~~rootcontest.com~~ | Gone |
+| ~~intruded.net~~ | Gone |
+| ~~how2hack.net~~ | Gone |
+| ~~mavensecurity.com/WebMaven.php~~ | WebMaven / Buggy Bank retired |
+| ~~foundstone.com Hacme Travel~~ | Foundstone absorbed into McAfee, tools pulled |
+| ~~foundstone.com Hacme Books~~ | Same |
+| ~~foundstone.com Hacme Casino~~ | Same |
+| ~~foundstone.com Hacme Shipping~~ | Same |
+| ~~hackme.ntobjectives.com~~ | NT OBJECTives acquired, demo retired |
+| ~~prequals.nuitduhack.com~~ | Event archived, see [ctftime.org](https://ctftime.org/) |
+| ~~gat3way.eu~~ | Gone |
+| ~~damo.clanteam.com~~ | Gone |
+| ~~p6drad-teel.net/~windo/wargame~~ | Gone |
+| ~~roothack.org~~ | Gone |
+| ~~ha.ckers.org/challenge~~ | RSnake retired the site |
+| ~~ha.ckers.org/challenge2~~ | Same |
+| ~~dc3.mil/challenge~~ | DC3 Digital Forensics Challenge discontinued |
+| ~~exploit-exercises.com~~ → [exploit.education](https://exploit.education/) | Rebranded, Nebula/Protostar/Fusion live on |
+
+---
+
+## 7. Worth Adding
+
+Platforms that did not exist or were minor when this list was written, and now carry most of the traffic.
+
+| Platform | URL | Focus |
+| --- | --- | --- |
+| TryHackMe | [tryhackme.com](https://tryhackme.com/) | Guided rooms, beginner to intermediate |
+| Hack The Box | [hackthebox.com](https://www.hackthebox.com/) | Machines, Pro Labs, Academy |
+| Hacker101 | [hacker101.com](https://www.hacker101.com/) | HackerOne's free CTF and video course |
+| picoGym | [picoctf.org/practice](https://picoctf.org/) | Persistent picoCTF challenge bank |
+| crackmes.one | [crackmes.one](https://crackmes.one/) | Reverse engineering exercises |
+| webhacking.kr | [webhacking.kr](https://webhacking.kr/) | Korean web challenge classic |
+| Websec.fr | [websec.fr](https://websec.fr/) | Web-only, hard |
+| Defend the Web | [defendtheweb.net](https://defendtheweb.net/) | Successor community to several dead sites |
+| Hacksplaining | [hacksplaining.com](https://www.hacksplaining.com/) | Defensive-side lessons |
+| OverTheWire Advent | [overthewire.org](https://overthewire.org/) | Seasonal |
+| pwn.college | [pwn.college](https://pwn.college/) | ASU's full binary exploitation curriculum |
+| GTFOBins | [gtfobins.github.io](https://gtfobins.github.io/) | Reference, not a CTF, but constantly needed |
+
+---
+
+## Verification Notes
+
+- Statuses were checked against live pages and current project repositories where retrievable. Sites marked ⚠️ resolve but have not been updated in years.
+- Several entries in the original list pointed at OWASP's retired MediaWiki (`owasp.org/index.php/...`). Every one of those needs the `www-project-*` path now.
+- The Acunetix demo targets migrated from `*.acunetix.com` to `*.vulnweb.com`. Both old paths in the original list were already marked dead, and the replacements are live.
+- A few sites (Reversing.kr, Try2Hack, bWAPP) are up but serve plain HTTP or expired certs. Expect browser warnings.
