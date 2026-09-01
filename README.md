@@ -19,7 +19,7 @@
 <details open>
 <summary><strong>✅ Available (55)</strong></summary>
 
-CloudFoxable · bWAPP · Cryptopals · CTFlearn · CTFTime · Google Gruyere · Google XSS Game · Hack This Site · HackThis!! · IO (Netgarage) · OWASP Juice Shop · Microcorruption · OverTheWire · picoCTF · PortSwigger Web Security Academy · pwnable.kr · pwnable.tw · Reversing.kr · Root Me · SmashTheStack · Try2Hack · W3Challs · XSS Challenge Wiki · Pentest-practice · Practice CTF List (captf) · VulnHub · scanme.nmap.org · WeChall · shell-storm CTF archive · Altoro Mutual (testfire) · Acunetix test.php · Acunetix testphp · Acunetix testasp · Zero WebAppSecurity · PentesterLab · Metasploitable 2 · Mutillidae · DVWA · Avatao · Typhoon VM · Counter Hack / Holiday Hack · Hack The Box · TryHackMe · Hacker101 · crackmes.one · webhacking.kr · Websec.fr · Hacksplaining · Defend the Web · Gracker · SANS DFIR challenges · picoGym · OWASP VWAD · exploit.education · Praetorian challenges
+CloudFoxable · bWAPP · Cryptopals · CTFlearn · CTFTime · Google Gruyere · GemForgeLabs · Google XSS Game · Hack This Site · HackThis!! · IO (Netgarage) · OWASP Juice Shop · Microcorruption · OverTheWire · picoCTF · PortSwigger Web Security Academy · pwnable.kr · pwnable.tw · Reversing.kr · Root Me · SmashTheStack · Try2Hack · W3Challs · XSS Challenge Wiki · Pentest-practice · Practice CTF List (captf) · VulnHub · scanme.nmap.org · WeChall · shell-storm CTF archive · Altoro Mutual (testfire) · Acunetix test.php · Acunetix testphp · Acunetix testasp · Zero WebAppSecurity · PentesterLab · Metasploitable 2 · Mutillidae · DVWA · Avatao · Typhoon VM · Counter Hack / Holiday Hack · Hack The Box · TryHackMe · Hacker101 · crackmes.one · webhacking.kr · Websec.fr · Hacksplaining · Defend the Web · Gracker · SANS DFIR challenges · picoGym · OWASP VWAD · exploit.education · Praetorian challenges
 
 </details>
 
@@ -52,6 +52,7 @@ CTF Challenge · CTF365 · Enigma Group · Game of Hacks · Hack.me · Hellbound
 | ✅ | CTFTime | [ctftime.org](https://ctftime.org/) | Event calendar and team rankings |
 | ❌ | ~~Enigma Group~~ | ~~enigmagroup.org~~ | Long unmaintained, site no longer reliably up |
 | ❌ | ~~Game of Hacks~~ | ~~gameofhacks.com~~ | Checkmarx retired the demo |
+| ✅ | GemForgeLabs | [GemForgeLabs](https://gemforgelabs.io) | Mixed Category Platform |
 | ✅ | Google Gruyere | [google-gruyere.appspot.com](https://google-gruyere.appspot.com/) | Still hosted on App Engine |
 | ✅ | Google XSS Game | [xss-game.appspot.com](https://xss-game.appspot.com/) | 6 levels, still live |
 | ✅ | Hack This Site | [hackthissite.org](https://www.hackthissite.org/) | Classic wargame, active community |
@@ -239,6 +240,7 @@ Platforms that did not exist or were minor when this list was written, and now c
 | OverTheWire Advent | [overthewire.org](https://overthewire.org/) | Seasonal |
 | pwn.college | [pwn.college](https://pwn.college/) | ASU's full binary exploitation curriculum |
 | GTFOBins | [gtfobins.github.io](https://gtfobins.github.io/) | Reference, not a CTF, but constantly needed |
+| GemForgeLabs | [gemforgelabs.io](https://gemforgelabs.io/) | Labs |
 
 ---
 
